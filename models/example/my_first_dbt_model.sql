@@ -36,4 +36,4 @@ select
 
     now() as _airbyte_normalized_at
 	
-from "dbt-test".test3._airbyte_raw_branch
+from "dbt-test".airbyte_dbt_itegration._airbyte_raw_branch
